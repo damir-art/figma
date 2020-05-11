@@ -16,13 +16,16 @@ Figma и Скетч практически идентичные программ
 ## Разное
 * **Создание нового документа:** `Recent > Иконка стрелки вниз > New File (Ctrl + N)`
 * **Скетч:** файлы скетч можно загрузить в фигму (Главное окно > Импорт)
-* Для работы, скачивайте SVG файлы.
+* Может работать с SVG, EPS (Иллюстратор), Скетч  файлами.
+* Также работает с 
 
 ## Ссылки
 ### Блоги
 * https://figma.info/course-begin.html
 * https://vk.com/figmatips
 * http://figmaweb.ru
+* https://ux.pub/design-tools/figma/
+* https://musli.cc/tag/figma
 
 ### Ресурсы
 * https://www.sketchappsources.com/
