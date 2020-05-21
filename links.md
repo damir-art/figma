@@ -9,8 +9,10 @@
 ## Ютуб
 * Disarto: https://www.youtube.com/channel/UCZQclF2l8YE-gSqIbjGlkUg
 * Anastassiya Designer: https://www.youtube.com/channel/UCrFb4n0c1NK1lkKRy5l7BEg
+* Женя Смольский: https://www.youtube.com/channel/UCJ8k1-SCbY_GFMwO5RN3TeQ/featured
 
 ## Соц сети
+* https://vk.com/figma
 * https://vk.com/figmatips
 
 ## Ресурсы
