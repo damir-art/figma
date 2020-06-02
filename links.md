@@ -1,4 +1,6 @@
 # Ссылки
+Руководство по Figma (https://figma.su)
+
 ## Блоги
 * https://help.figma.com/hc/en-us - официальное руководство Figma
 * https://figma.info/course-begin.html
