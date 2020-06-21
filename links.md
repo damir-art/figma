@@ -6,6 +6,7 @@
 * https://figma.info/course-begin.html
 * http://figmaweb.ru
 * https://ux.pub/design-tools/figma/
+* https://vc.ru/tag/figma
 * https://musli.cc/tag/figma
 
 ## Ютуб
