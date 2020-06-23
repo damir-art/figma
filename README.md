@@ -6,7 +6,7 @@ Figma - векторный редактор используемый для со
 ## Содержание руководства по Figma
 
 ### Основы Figma
-* [Что такое Figma](https://github.com/damir-art/figma/blob/master/00-begin/00-chto-takoe-figma.md)
+* [Что такое Figma](00-begin/00-chto-takoe-figma.md)
 * [Регистрация и установка Figma](https://github.com/damir-art/figma/blob/master/00-begin/02-registracziya-i-ustanovka.md)
 * [Интерфейс программы Figma](https://github.com/damir-art/figma/blob/master/00-begin/04-interfejs-programmy.md)
 * [Интерфейс рабочей области Figma](https://github.com/damir-art/figma/blob/master/00-begin/06-interfejs-rabochei-oblasti.md)
