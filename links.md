@@ -8,10 +8,12 @@
 * https://ux.pub/design-tools/figma/
 * https://vc.ru/tag/figma
 * https://musli.cc/tag/figma
+* https://figma.help
 
 ## Ютуб
 * Disarto: https://www.youtube.com/channel/UCZQclF2l8YE-gSqIbjGlkUg
 * Anastassiya Designer: https://www.youtube.com/channel/UCrFb4n0c1NK1lkKRy5l7BEg
+* Виктор Теплов: https://www.youtube.com/channel/UCA47ePvxvwxwYZBEbfeJSIA
 * Женя Смольский: https://www.youtube.com/channel/UCJ8k1-SCbY_GFMwO5RN3TeQ/featured
 
 ## Соц сети
