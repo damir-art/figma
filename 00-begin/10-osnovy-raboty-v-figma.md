@@ -1,6 +1,6 @@
 # Основы работы в Figma
-Руководство по Figma: https://figma.su<br />
-Основы работы в Figma: https://figma.su/osnovy-raboty-v-figma
+* Руководство по Figma: https://figma.su
+* Основы работы в Figma: https://figma.su/osnovy-raboty-v-figma
 
 Основы работы в Figma, **создаем простые фигуры**.
 

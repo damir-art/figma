@@ -1,5 +1,6 @@
 # Интерфейс рабочей области Figma
-Руководство по Figma (https://figma.su)
+* Руководство по Figma: https://figma.su
+* Интерфейс рабочей области Figma: https://figma.su/interfejs-rabochej-oblasti-figma
 
 Изучаем интерфейс **рабочей области** *(проекта)* Figma.
 

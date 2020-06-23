@@ -1,5 +1,6 @@
 # Интерфейс программы Figma
-Руководство по Figma (https://figma.su)
+* Руководство Figma: https://figma.su
+* Интерфейс программы Figma: https://figma.su/interfejs-programmy-figma
 
 Изучаем **интерфейс** программы *(приложения)* Figma.
 

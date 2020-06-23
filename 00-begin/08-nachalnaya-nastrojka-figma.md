@@ -1,5 +1,6 @@
-# Начальная настройка
-Руководство по Figma (https://figma.su)
+# Начальная настройка Figma
+* Руководство по Figma: https://figma.su
+* Начальная настройка Figma: https://figma.su/nachalnaya-nastrojka-figma
 
 Начальная настройка Figma, сразу **после установки**.
 

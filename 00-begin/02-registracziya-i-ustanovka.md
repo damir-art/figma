@@ -1,5 +1,6 @@
 # Регистрация и установка Figma
-Руководство по Figma (https://figma.su)
+* Руководство Figma: https://figma.su
+* Регистрация и установка Figma: https://figma.su/registracziya-i-ustanovka-figma
 
 В первом уроке мы рассмотрим с вами **установку Figma** на компьютер.
 
