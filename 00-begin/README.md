@@ -1,12 +1,12 @@
 # Основы Figma
 Содержание раздела, основы Figma
 
-* [Что такое Figma](00-begin/00-chto-takoe-figma.md)
-* [Регистрация и установка Figma](00-begin/02-registracziya-i-ustanovka.md)
-* [Интерфейс программы Figma](00-begin/04-interfejs-programmy.md)
-* [Интерфейс рабочей области Figma](00-begin/06-interfejs-rabochei-oblasti.md)
-* [Начальная настройка Figma](00-begin/08-nachalnaya-nastrojka-figma.md)
-* [Основы работы в Figma](00-begin/10-osnovy-raboty-v-figma.md)
-* [Сохранение проекта Figma](00-begin/12-sohranenie-proekta-figma.md)
-* [Поделиться проектом Figma](00-begin/14-podelitsya-proektom-figma.md)
-* [Экспорт в Figma](00-begin/16-eksport-v-figma.md)
+* Что такое Figma
+* Регистрация и установка Figma
+* Интерфейс программы Figma
+* Интерфейс рабочей области Figma
+* Начальная настройка Figma
+* Основы работы в Figma
+* Сохранение проекта Figma
+* Поделиться проектом Figma
+* Экспорт в Figma
