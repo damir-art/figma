@@ -8,3 +8,5 @@
 * [Начальная настройка Figma](00-begin/08-nachalnaya-nastrojka-figma.md)
 * [Основы работы в Figma](00-begin/10-osnovy-raboty-v-figma.md)
 * [Сохранение проекта Figma](00-begin/12-sohranenie-proekta-figma.md)
+* [Поделиться проектом Figma](00-begin/14-podelitsya-proektom-figma.md)
+* [Экспорт в Figma](00-begin/16-eksport-v-figma.md)
