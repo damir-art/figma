@@ -11,6 +11,7 @@
 * https://figma.help
 
 ## Ютуб
+* Алексей Бфчков: https://www.youtube.com/watch?v=8es5Q18cH_w&list=PLM2Q6lcZo4MexclJrYxA0Is42qWBBuHpB&index=1
 * Disarto: https://www.youtube.com/channel/UCZQclF2l8YE-gSqIbjGlkUg
 * Anastassiya Designer: https://www.youtube.com/channel/UCrFb4n0c1NK1lkKRy5l7BEg
 * Виктор Теплов: https://www.youtube.com/channel/UCA47ePvxvwxwYZBEbfeJSIA
@@ -22,11 +23,14 @@
 
 ## Ресурсы
 Скачать/посмотреть файлы и макеты:
+* https://ru.freepik.com/ - бесплатные изображения
+* https://www.flaticon.com/ - векторные картинки
 * https://www.sketchappsources.com/
 * https://uispace.net/free-sketch
 * https://freebiesbug.com/sketch-freebies/
 * https://www.behance.net
 * https://dribbble.com/
+* https://www.canva.com/ru_ru/ - шаблоны макетов
 
 ## Статьи
 * https://habr.com/ru/post/463061/ - подготовка макета
