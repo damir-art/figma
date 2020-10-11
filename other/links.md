@@ -16,6 +16,9 @@
 * Anastassiya Designer: https://www.youtube.com/channel/UCrFb4n0c1NK1lkKRy5l7BEg
 * Виктор Теплов: https://www.youtube.com/channel/UCA47ePvxvwxwYZBEbfeJSIA
 * Женя Смольский: https://www.youtube.com/channel/UCJ8k1-SCbY_GFMwO5RN3TeQ/featured
+* Наука Дизайна: https://www.youtube.com/channel/UCGG3EyZVhbEqU34HUTEoGKg/playlists
+* Денис Тимошитский: https://www.youtube.com/channel/UCpEBkr_Niarn3lEMIvEsFJg
+* Георгий Тимофеев: https://www.youtube.com/channel/UCpTYrDobPSgjD1cNrRZvjzQ
 
 ## Соц сети
 * https://vk.com/figma
@@ -23,6 +26,8 @@
 
 ## Ресурсы
 Скачать/посмотреть файлы и макеты:
+* https://unsplash.com/ - бесплатные изображения
+* https://pixabay.com/ - бесплатные изображения
 * https://ru.freepik.com/ - бесплатные изображения
 * https://www.flaticon.com/ - векторные картинки
 * https://www.sketchappsources.com/
