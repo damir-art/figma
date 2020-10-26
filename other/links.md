@@ -39,3 +39,4 @@
 
 ## Статьи
 * https://habr.com/ru/post/463061/ - подготовка макета
+* https://ux.pub/otkroyte-dlya-sebya-figma-community/ - Figma Community
