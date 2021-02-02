@@ -14,7 +14,7 @@
 
 Параметры модульной сетки `Columns`:
 - Count `12` количество колонок
-- Type `Strech`
+- Type `Strech` или `Center` с шириной колонки в `65px`
 - Margin `15`
 - Gutter `30`
 
